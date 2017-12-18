@@ -260,7 +260,9 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#000",
-              "font-size": "60px"
+              "font-size": "48px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -278,7 +280,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
@@ -291,10 +293,10 @@
             "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true
           },
-          "title": "ЗАРАБАТЫВАЙ ОТ 1000 ЕВРО В МЕСЯЦ",
+          "title": "ЗАРАБАТЫВАЙ <br>ОТ 1000 ЕВРО В МЕСЯЦ",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">НАЧАТЬ</a>"
         }
