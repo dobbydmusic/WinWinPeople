@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WWP",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -58,7 +58,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#dad6bd",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -131,7 +131,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///Users/ivanmarin/Library/Application%20Support/Mobirise.com/Mobirise/projectData/brown_shadow_background_black_65799_3840x1200-2000x625.jpg",
-            "bgColor": "#dad6bd",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.4",
@@ -140,7 +140,7 @@
             "showSubTitle": true
           },
           "title": "Присоединяйся к <br>команде победителей",
-          "subtitle": "Заполните форму, чтобы узнать подробнее:<br>",
+          "subtitle": "<br><br>Заполните форму, чтобы узнать подробнее:<br>",
           "form": {
             "action": "alievaod@gmail.com",
             "alerts": {
@@ -168,7 +168,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>"
         },
         {
           "_styles": {
@@ -187,7 +187,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#dad6bd",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -213,7 +213,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#dad6bd",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -247,7 +247,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#dad6bd",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
