@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -441,12 +442,17 @@ h6,
 #footer1-2 P {
   color: #000000;
 }
+
 #footer1-4 P {
   color: #000000;
 }
 #header5-5 .mbr-section-title {
   color: #000;
+  font-size: 60px;
 }
 #header5-5 .mbr-section-lead {
   color: #9c9a9a;
+}
+#header5-5 .mbr-section-title DIV {
+  font-family: 'Oswald', sans-serif;
 }
