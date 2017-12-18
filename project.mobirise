@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 12,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/photo-128x128.png",
     "noImageResize": ""
@@ -68,7 +68,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
             "inverse": true,
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButtons": false
           },
@@ -256,33 +256,28 @@
           "text": "Все права защищены (с) &nbsp;2017"
         },
         {
-          "_inherit": "header1",
+          "_inherit": "msg-box8",
           "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
             ".mbr-section-title": {
-              "color": "#000",
-              "font-size": "48px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
-            },
-            ".mbr-section-title DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-size": "36px",
+              "text-align": "left"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-5",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-b",
           "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -290,15 +285,14 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
-            "showButtons": true
+            "showButton": true
           },
-          "title": "ЗАРАБАТЫВАЙ <br>ОТ 1000 ЕВРО В МЕСЯЦ",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">НАЧАТЬ</a>"
+          "title": "ЗАРАБАТЫВАЙ ОТ 1000 ЕВРО В МЕСЯЦ",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">НАЧАТЬ</a>"
         }
       ]
     }
